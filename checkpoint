@@ -1,0 +1,6 @@
+model_checkpoint_path: "DVBPR_auc_100_20909.ckpt"
+all_model_checkpoint_paths: "DVBPR_auc_100_4182.ckpt"
+all_model_checkpoint_paths: "DVBPR_auc_100_8364.ckpt"
+all_model_checkpoint_paths: "DVBPR_auc_100_12546.ckpt"
+all_model_checkpoint_paths: "DVBPR_auc_100_16728.ckpt"
+all_model_checkpoint_paths: "DVBPR_auc_100_20909.ckpt"
